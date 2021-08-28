@@ -1,5 +1,5 @@
 <div class="topnav">
-  <a class="active" href="https://github.com/razitaa/os212/blob/eec365169beacef46a25f04c6eee29ff11f6d7dd/index.md">Home</a>
+  <a class="active" href="https://github.com/razitaa/os212">Home</a>
   <a href="https://github.com/razitaa/os212/blob/a09f5c364c57fc801a8a230ab3e57648b55e8c7d/mylog.txt">Log</a>
   <a href="TXT/myrank.txt">Rank</a>
 </div>
