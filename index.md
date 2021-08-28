@@ -7,5 +7,5 @@
 <h2>I am Razita Afrina Nuriyan. This is my repository for the Operating Systems 2021/22 course.</h2>
 My weekly top 10 lists:
 <ol>
-  <li></li>
+  <li><a href="https://razitaa.github.io/os212/w01">Week 01</a></li>
 </ol>
