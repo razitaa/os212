@@ -5,4 +5,4 @@ ZCZC W00  15 L01 Enrolling in SCELE, answering forums
 ZCZC W00  10 L03 Creating GitHub account
 ZCZC W00  30 L04 Creating GitHub page for OS212
 ZCZC W00  100 L02 Monday synchronous class
-ZCZC W00  60 Reading W00 slide, trying past OS exams (http://rms46.vlsm.org/2/195.pdf)
+ZCZC W00  60 Reading W00 slide, trying past OS exams + GSGS
