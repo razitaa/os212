@@ -1,7 +1,7 @@
 <div class="topnav">
   <a class="active" href="https://razitaa.github.io/os212">Home</a> |
   <a href="https://razitaa.github.io/os212/TXT/mylog.txt">Log</a> |
-  <a href="https://razitaa.github.io/os212/links">Links</a> |
+  <a href="https://razitaa.github.io/os212/LINKS/">Links</a> |
     <a href="https://github.com/razitaa/os212/">GitHub</a> |
 </div>
 <h1>Hello!</h1>
