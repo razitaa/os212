@@ -1,3 +1,6 @@
+---
+permalink: /LINKS/
+---
 <h1>Links</h1>
 <ol>
 <li></li>
