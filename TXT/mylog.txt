@@ -17,3 +17,8 @@ ZCZC W01   15 L17 Assignment #7
 ZCZC W01   30 L18 Assignment #8
 ZCZC W01   15 L19 Assignment #9
 ZCZC W01    5 L16 Assignment #6
+ZCZC W02   20 L22 Week 01 Quiz
+ZCZC W02  100 L02 Monday synchronous session
+ZCZC W02   60 L09 Public key related assignments
+ZCZC W02   45 L06 GSGS about cybersecurity and the C language
+ZCZC W02   15 L04 Update links page, make some change in index page, update log
