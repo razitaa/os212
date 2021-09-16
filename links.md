@@ -2,12 +2,13 @@
 permalink: /LINKS/
 ---
 <h1>Links</h1>
-<b>Week 00</b>
+OS-related links I find useful. Check them out, you might find them useful too. 
+<b>Week 01</b>
 <ol>
 <li><a href="https://grymoire.com/Unix/Sed.html">Sed - An Introduction and Tutorial by Bruce Barnett</a>
 <br> A complete sed tutorial. Not the official documentation, but easy to understand.</li>
 </ol>
-<b>Week 01</b>
+<b>Week 02</b>
 <ol>
 <li><a href="https://freecodecamp.org/news/the-c-beginners-handbook/">The C Beginner's Handbook</a>
 <br> Complete introduction to C, from all the variables & types, conditionals, loops, arrays, command line parameters, etc. Also downloadable in PDF format for free.</li>

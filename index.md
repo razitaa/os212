@@ -5,4 +5,4 @@
     <a href="https://github.com/razitaa/os212/">GitHub</a> |
 </div>
 <h1>Hello!</h1>
-<h2>I am Razita Afrina Nuriyan. This is my repository for the Operating Systems 2021/22 course.</h2>
+<h2>I am Razita and this is my repository for the Operating Systems 2021/22 course.</h2>
