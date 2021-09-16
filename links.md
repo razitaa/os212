@@ -2,7 +2,7 @@
 permalink: /LINKS/
 ---
 <h1>Links</h1>
-OS-related links I find useful. Check them out, you might find them useful too. 
+OS-related links I find useful. Check them out, you might find them useful too. <br> 
 <b>Week 01</b>
 <ol>
 <li><a href="https://grymoire.com/Unix/Sed.html">Sed - An Introduction and Tutorial by Bruce Barnett</a>
