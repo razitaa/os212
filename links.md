@@ -23,6 +23,6 @@ OS-related links I find useful. Check them out, you might find them useful too. 
 <br> A tutorial on how to install FUSE and create your own custom filesystem. Explains everything you need to do and why you need to do it, but still not too long to read.</li>
 <li><a href="https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf">Filesystem Hierarchy Standard</a>
 <br> FHS guideline from The Linux Foundation. This is really long (50 pages) so I don't recommend you to finish it. It's better to treat it like a documentation.</li>
-<li><a href="ipcisco.com/lesson/linux-file-system/">Linux File System</a>
+<li><a href="https://ipcisco.com/lesson/linux-file-system/">Linux File System</a>
 <br> Common directories in Linux explained in a few simple sentences, with examples of the directories' contents.</li>
 </ol>
