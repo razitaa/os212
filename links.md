@@ -26,3 +26,12 @@ OS-related links I find useful. Check them out, you might find them useful too. 
 <li><a href="https://ipcisco.com/lesson/linux-file-system/">Linux File System</a>
 <br> Common directories in Linux explained in a few simple sentences, with examples of the directories' contents.</li>
 </ol>
+<b>Week 04</b>
+<ol>
+<li><a href="https://youtu.be/udfbq4M2Kfc">Basics of Dynamic Memory Allocation</a>
+<br> Less than 5 minute video explaining static and dynamic memory allocation in C. Also check
+<a href="https://youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM">this</a> playlist by the same channel for more details on memory allocation
+and C programming in general.</li>
+<li><a href="https://www.design-reuse.com/articles/25090/dynamic-memory-allocation-fragmentation-c.html">Dynamic Memory Allocation and Fragmentation in C and C++</a>
+<br> An article explaining dynamic memory allocation in C language, with code examples and details about issues in memory allocation.</li>
+</ol>
