@@ -35,3 +35,12 @@ and C programming in general.</li>
 <li><a href="https://www.design-reuse.com/articles/25090/dynamic-memory-allocation-fragmentation-c.html">Dynamic Memory Allocation and Fragmentation in C and C++</a>
 <br> An article explaining dynamic memory allocation in C language, with code examples and details about issues in memory allocation.</li>
 </ol>
+<b>Week 05</b>
+<ol>
+<li><a href="https://www.youtube.com/watch?v=2quKyPnUShQ">What Is Virtual Memory? - Gary Explains</a>
+<br> A video that basically contains the answer to that question. And explains how does virtual memory work.</li>
+<li><a href="https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/">Page Replacement Algorithms in Operating Systems</a>
+<br> This article explains various page replacement algorithms (FIFO, optimal, & LRU). With clear illustrations.</li>
+<li><a href="youtube.com/watch?v=10vroQb5IdY">5.06 - Memory Allocation Algorithms</a>
+<br> A video that explains various memory allocation algorithms (first fit, best fit, worst fit, buddy's system, and next fit).</li>
+</ol>

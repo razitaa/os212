@@ -47,3 +47,13 @@ ZCZC W04   15 L16 Assignment #6
 ZCZC W04   30 L17 Assignment #7
 ZCZC W04   10 L18 Assignment #8
 ZCZC W04   12 L19 Assignment #9
+ZCZC W05   20 L22 W04 Quiz
+ZCZC W05  100 L02 Monday synchronous session
+ZCZC W05   60 L11 Assignment #1
+ZCZC W05   60 L12 Assignment #2
+ZCZC W05   60 L13 Assignment #3
+ZCZC W05  100 L14 Assignment #4
+ZCZC W05   60 L06 GSGS about virtual memory
+ZCZC W05   15 L15 Assignment #5
+ZCZC W05   30 L17 Assignment #7
+ZCZC W05   10 L18 Assignment #8
