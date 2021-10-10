@@ -41,6 +41,6 @@ and C programming in general.</li>
 <br> A video that basically contains the answer to that question. And explains how does virtual memory work.</li>
 <li><a href="https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/">Page Replacement Algorithms in Operating Systems</a>
 <br> This article explains various page replacement algorithms (FIFO, optimal, & LRU). With clear illustrations.</li>
-<li><a href="youtube.com/watch?v=10vroQb5IdY">5.06 - Memory Allocation Algorithms</a>
+<li><a href="https://youtube.com/watch?v=10vroQb5IdY">5.06 - Memory Allocation Algorithms</a>
 <br> A video that explains various memory allocation algorithms (first fit, best fit, worst fit, buddy's system, and next fit).</li>
 </ol>
