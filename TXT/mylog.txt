@@ -58,3 +58,16 @@ ZCZC W05   15 L15 Assignment #5
 ZCZC W05   30 L17 Assignment #7
 ZCZC W05   10 L18 Assignment #8
 ZCZC W05    5 L19 Assignment #9
+ZCZC W06   20 L05 W05 Quiz
+ZCZC W06  180 L01 Watch asynchronous study material from SCELE
+ZCZC W06  100 L02 Thursday synchronous session
+ZCZC W06    5 L99 W06 Contact
+ZCZC W06   90 L11 Assignment #1
+ZCZC W06   45 L12 Assignment #2
+ZCZC W06   60 L13 Assignment #3
+ZCZC W06   30 L14 Assignment #4
+ZCZC W06   30 L06 GSGS about processes in OS
+ZCZC W06   15 L15 Assignment #5
+ZCZC W06   30 L17 Assignment #7
+ZCZC W06   10 L18 Assignment #8
+ZCZC W06    5 L19 Assignment #9
