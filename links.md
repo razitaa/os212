@@ -44,3 +44,8 @@ and C programming in general.</li>
 <li><a href="https://youtube.com/watch?v=10vroQb5IdY">5.06 - Memory Allocation Algorithms</a>
 <br> A video that explains various memory allocation algorithms (first fit, best fit, worst fit, buddy's system, and next fit).</li>
 </ol>
+<b>Week 06</b>
+<ol>
+<li><a href="https://www.youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY">Unix Processes in C</a>
+<br> A YouTube playlist explaining how Unix processes work in C language, from the basics (the fork() function) to more advanced stuff.</li>
+</ol>
