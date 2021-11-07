@@ -53,8 +53,6 @@ and C programming in general.</li>
 <ol>
 <li><a href="https://www.geeksforgeeks.org/introduction-of-process-synchronization/">Introduction of Process Synchronization</a>
 <br> An article that explains about process synchronization, from why it's needed to available solutions (Peterson's solution, TestAndSet solution, & semaphores).</li>
-</ol>
-<ol>
 <li><a href="https://www.youtube.com/watch?v=ph2awKa8r5Y">Process Synchronization</a>
 <br> Basically if you prefer videos you can watch this one.</li>
 </ol>
