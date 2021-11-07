@@ -71,3 +71,17 @@ ZCZC W06   15 L15 Assignment #5
 ZCZC W06   30 L17 Assignment #7
 ZCZC W06   10 L18 Assignment #8
 ZCZC W06    5 L19 Assignment #9
+ZCZC W07   20 L22 W06 Quiz
+ZCZC W07  100 L02 Monday sync session
+ZCZC W07   20 L01 Answering discussion forum in SCELE
+ZCZC W07  100 L02 Thursday sync session
+ZCZC W07   60 L11 Assignment #1
+ZCZC W07   30 L12 Assignment #2
+ZCZC W07   60 L13 Assignment #3
+ZCZC W07   20 L14 Assignment #4
+ZCZC W07   30 L06 GSGS about process synchronization
+ZCZC W07   15 L15 Assignment #5
+ZCZC W07   30 L17 Assignment #7
+ZCZC W07   10 L18 Assignment #8
+ZCZC W07    5 L19 Assignment #9
+ZCZC W06  

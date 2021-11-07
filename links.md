@@ -49,3 +49,12 @@ and C programming in general.</li>
 <li><a href="https://www.youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY">Unix Processes in C</a>
 <br> A YouTube playlist explaining how Unix processes work in C language, from the basics (the fork() function) to more advanced stuff.</li>
 </ol>
+<b>Week 07</b>
+<ol>
+<li><a href="https://www.geeksforgeeks.org/introduction-of-process-synchronization/">Introduction of Process Synchronization</a>
+<br> An article that explains about process synchronization, from why it's needed to available solutions (Peterson's solution, TestAndSet solution, & semaphores).</li>
+</ol>
+<ol>
+<li><a href="https://www.youtube.com/watch?v=ph2awKa8r5Y">Process Synchronization</a>
+<br> Basically if you prefer videos you can watch this one.</li>
+</ol>
