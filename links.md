@@ -61,5 +61,5 @@ and C programming in general.</li>
 <li><a href="https://www.makeuseof.com/what-is-a-bootloader/">What Is a Bootloader? How Does a Bootloader Work?</a>
 <br> An article & short video that goes into detail on bootloader mechanism</li>
 <li><a href="https://www.youtube.com/watch?v=7LTB4aLI7r0">Creating Our First Boot Loader | Make a 64 bit OS From Scratch!! | Part 1</a>
-<br> Title is pretty much self explanatory. This video is also a part of an OS development series. Also has some nice references on the description box.<\li>
+<br> Title is pretty much self explanatory. This video is also a part of an OS development series. Also has some nice references on the description box.</li>
 </ol>
